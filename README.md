@@ -1,8 +1,9 @@
-# Flask on Heroku
 I used the basic app.py and templates and created the graphs using Bokeh and Flask
 
 
 
+
+# Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
 technologies from the 12-day course, including Git, Flask, JSON, Pandas,
