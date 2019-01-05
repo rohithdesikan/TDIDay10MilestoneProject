@@ -8,11 +8,11 @@ import requests
 import json
 
 # Data Visualization Library Imports
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 import seaborn as sns
 
-from bokeh.io import output_notebook, show, output_file, save
+from bokeh.io import show, output_file, save
 
 from bokeh.plotting import figure, show, output_file
 
@@ -24,7 +24,7 @@ from bokeh.embed import file_html, components
 
 from bokeh.resources import INLINE, CDN
 
-output_notebook()
+# output_notebook()
 # --------------------------------------------------------------
 
 
